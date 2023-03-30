@@ -2,6 +2,10 @@
 Getting Google Maps position link using GPS Neo Ublox 6m with ESP32 development board.
 
 # Wiring Diagram
+VCC : 3v3 pin at ESP32 <br/>
+RX  : TX2 pin at ESP32 <br/>
+TX  : RX2 pin at ESP32 <br/>
+GND : GND pin at ESP32 <br/>
 <img src="./ESP32_GPS_Neo_6m_Wiring.png">
 
 # Notes
