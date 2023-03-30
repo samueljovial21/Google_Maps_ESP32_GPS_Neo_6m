@@ -11,9 +11,9 @@ The common path is C:\Users\<username>\Documents\Arduino\libraries
 
 # Output Example
 # No Satellite
-No Blinking GPS Module
+No Blinking GPS Module <br/>
 <img src="./No_Satellite.PNG">
 
 # Satellite available
-Blinking GPS Module
+Blinking GPS Module <br/>
 <img src="./Available_Location.PNG">
