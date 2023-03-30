@@ -12,5 +12,6 @@ The common path is C:\Users\<username>\Documents\Arduino\libraries
 # Output Example
 # No Satellite
 <img src="./No_Satellite.PNG">
+
 # Satellite available
 <img src="./Available_Location.PNG">
