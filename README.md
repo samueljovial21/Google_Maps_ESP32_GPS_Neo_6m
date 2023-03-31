@@ -1,5 +1,5 @@
 # Google_Maps_ESP32_GPS_Neo_6m
-Getting Google Maps position link using GPS Neo Ublox 6m with ESP32 development board.
+Getting Google Maps position link using GPS Neo Ublox 6m with ESP32 development board. <br/>
 Take a look at my repository before. [Link's here](https://github.com/samueljovial21/ESP32_GPS_Neo_6m.git).
 
 ## Wiring Diagram
